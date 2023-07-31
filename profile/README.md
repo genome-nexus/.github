@@ -3,8 +3,11 @@
 
 Genome Nexus is developed at Memorial Sloan Kettering Cancer Center (MSK) and has received several contributions from The Hyve. The Genome Nexus website is hosted by the Center for Molecular Oncology at MSK. The software is available under an open source license via GitHub.
 
+## Documentation 📖
+See [docs](https://docs.genomenexus.org)
+
 ## Repositories 📁
-See [architecture](https://docs.genomenexus.org/architecture) for more information about the Genome Nexus stack. These are the relevant repos:
+See [architecture section of the docs](https://docs.genomenexus.org/architecture) for more information about the Genome Nexus stack. These are the relevant repos:
 
 - [genome-nexus](https://github.com/genome-nexus/genome-nexus): REST API in Java Spring Boot
 - [genome-nexus](https://github.com/genome-nexus/genome-nexus-frontend): Frontend in TypeScript using React
