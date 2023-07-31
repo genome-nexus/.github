@@ -10,6 +10,6 @@ See [docs](https://docs.genomenexus.org)
 See [architecture section of the docs](https://docs.genomenexus.org/architecture) for more information about the Genome Nexus stack. These are the relevant repos:
 
 - [genome-nexus](https://github.com/genome-nexus/genome-nexus): REST API in Java Spring Boot
-- [genome-nexus](https://github.com/genome-nexus/genome-nexus-frontend): Frontend in TypeScript using React
+- [genome-nexus-frontend](https://github.com/genome-nexus/genome-nexus-frontend): Frontend in TypeScript using React
 - [genome-nexus-annotation-pipeline](https://github.com/genome-nexus/genome-nexus-annotation-pipeline): Command Line Client in Java for annotating MAF files
 - [annotation-tools](https://github.com/genome-nexus/annotation-tools): Various tools that help with annotation including a Python based VCF2MAF converter
